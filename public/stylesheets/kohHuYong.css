@@ -1,0 +1,30 @@
+    @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+    html {
+        font-family: 'Kanit', sans-serif;
+    }
+    
+    .about {
+        padding: 75px 0;
+        text-align: center;
+        background-color: #04204a1a;
+    }
+    
+    .about h1 {
+        margin-bottom: 55 px;
+        color: #04204a;
+    }
+    
+    .about p {
+        font-size: 19;
+        color: #04204a;
+    }
+    
+    .island-detail {
+        padding: 64px 68px;
+    }
+    
+    .island-detail h5 {
+        font-weight: bold;
+        color: #04204a;
+        /* border-bottom: 1px solid #04204a96; */
+    }

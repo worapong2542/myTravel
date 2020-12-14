@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+html {
+    font-family: 'Kanit', sans-serif;
+}
+
+.tm-bg-white-alpha {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+
+/* แถบซ้าย */
+
+.columns-bg {
+    background-image: linear-gradient( to right, #04204a8c, #04204a8c 50%, #ffffff 50%);
+}
+
+.container-fluid {
+    max-width: 1310px;
+}
+
+.tm-section-introR {
+    padding-top: 170px;
+    padding-bottom: 0;
+}
+
+.tm-section-introR {
+    color: #04204a;
+}
+
+.tm-text-white {
+    font-size: 18px;
+    color: #04204a;
+}
+
+#fromBKK {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    color: #04204a
+}
+
+#fromPhuket {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    color: #04204a
+}
+
+#addition {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    color: #04204a
+}
+
+.tm-site-name-container {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 1px solid #04204a96;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tm-section-text-container {
+    padding: 0 50px;
+}
+
+.tm-section-text-container-2 {
+    padding: 20px 55px 30px;
+    max-width: 640px;
+}
+
+.tm-section-text-container-3 {
+    padding: 64px 68px;
+}
+
+.tm-img-right {
+    margin-left: -1px;
+    /* to fix 1 px gap in Chrome */
+}
+
+.tm-img-left-container,
+.tm-text-left-container {
+    padding-right: 0;
+}
+
+.tm-img-right-container {
+    padding-left: 0;
+}

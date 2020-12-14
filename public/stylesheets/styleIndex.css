@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+body {
+    font-family: 'Kanit', sans-serif;
+}
+
+.bg-dark {
+    background-color: #04204e !important;
+}
+
+.navbar-brand {
+    /* font-weight: bold;
+        font-family: monospace; */
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+.carousel-caption h5 {
+    font-size: 28px;
+}
+
+
+/*Recomended Place style*/
+
+.places {
+    padding: 55px 0;
+    text-align: center;
+    background-color: #04204a;
+}
+
+.places h1 {
+    font-size: 25px;
+    margin-bottom: 55px;
+    color: #fff;
+}
+
+.places .card {
+    border: 1px solid #0062cc;
+}
+
+.places .card-body {
+    padding: 1.25rem .9rem;
+    background-color: #061a37;
+}
+
+.places .card-body .card-title {
+    color: #fff;
+    font-weight: 700;
+}
+
+.places .card-body .card-text {
+    color: #fff;
+}
+
+.places .btn-primary {
+    color: #fff;
+    background-color: #04204a;
+    border-color: #0062cc;
+}
+
+.places .btn-primary:hover {
+    color: #fff;
+    background-color: #0062cc;
+    border-color: #0062cc;
+}
+
+.projects {
+    padding: 55px 0;
+    text-align: center;
+    background-color: #04204a1a;
+}
+
+.projects h1 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    color: #04204a;
+}
+
+.projects figure {
+    margin-top: 28px;
+}
+
+.figure-caption {
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 5px;
+    color: #04204a;
+}
+
+.page-footer {
+    background-color: #04204a;
+}
+
+.page-footer h6 {
+    font-size: 20px;
+    margin-top: 55px;
+    color: #fff;
+}
+
+.page-footer p {
+    font-size: 16px;
+    color: #fff;
+}
+
+
+/*updateCovid*/
+
+.updateCovid {
+    padding: 40px 0;
+    text-align: center;
+    background-color: #04204a1a;
+}
+
+.updateCovid p {
+    font-size: 25px;
+    margin-bottom: 55px;
+    color: #04204a;
+}
+
+.updateCovid .covid {
+    width: 450px;
+    height: 350px;
+    display: block;
+    border-style: none;
+}
+
+.updateCovid .map {
+    width: 800;
+    height: 350px;
+    display: block;
+    border-style: none;
+}
